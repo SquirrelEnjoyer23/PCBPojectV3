@@ -3,7 +3,7 @@ Version 3 of the PCB
 
 
 
-![image](https://github.com/user-attachments/assets/25d69b87-5cd8-4e19-a613-6a04c763c164)
+![image](https://github.com/user-attachments/assets/f2729600-b4ae-4028-ae36-929caf9dbd33)
 
 
 ![image](https://github.com/user-attachments/assets/7fdf559d-0fa5-42d7-8268-da4908ef488a)
